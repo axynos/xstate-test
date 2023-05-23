@@ -1,0 +1,9 @@
+.main {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-auto-flow: column;
+  column-gap: 2rem;
+  padding: 6rem;
+  min-height: 100vh;
+}
